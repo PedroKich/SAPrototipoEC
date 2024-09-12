@@ -1,0 +1,15 @@
+/* image 6
+
+position: absolute;
+width: 480px;
+height: 339px;
+left: 934px;
+top: 210px;
+
+background: url(image.png); */
+
+.header{
+    flex: auto;
+    flex-direction: row;
+   
+}
